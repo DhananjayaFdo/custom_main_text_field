@@ -2,9 +2,9 @@ name: custom_main_text_field
 description: A highly customizable Flutter text field with password visibility toggle, prefix/suffix icons, validation, focus states, and extensive styling options.
 version: 1.0.0
 # TODO: Update before publishing
-# homepage: https://github.com/YOURUSERNAME/custom_main_text_field
-# repository: https://github.com/YOURUSERNAME/custom_main_text_field
-# issue_tracker: https://github.com/YOURUSERNAME/custom_main_text_field/issues
+homepage: https://github.com/DhananjayaFdo/custom_main_text_field
+repository: https://github.com/DhananjayaFdo/custom_main_text_field
+issue_tracker: https://github.com/DhananjayaFdo/custom_main_text_field/issues
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
@@ -25,5 +25,3 @@ topics:
   - form
   - validation
   - password
-  - widget
-  - ui
