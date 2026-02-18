@@ -1,0 +1,14 @@
+name: custom_main_text_field_example
+publish_to: "none"
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  custom_main_text_field:
+    path: ../
+
+flutter:
+  uses-material-design: true
